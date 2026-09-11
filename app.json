@@ -26,6 +26,11 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "Daily attendance, work hours, overtime and monthly attendance tracking."
+    "description": "Daily attendance, work hours, overtime and monthly attendance tracking.",
+    "extra": {
+      "eas": {
+        "projectId": "693f9ac9-67fd-405c-a1a4-4584f940ec71"
+      }
+    }
   }
 }
